@@ -1,0 +1,18 @@
+[
+    {
+      "title": "First Tech Bolg",
+      "date_created": "06/05/2021",
+      "content": "This is the first of the content that will be on my blog post."
+    },
+    {
+        "title": "Second Tech Blog",
+        "date_created": "06/06/2021",
+        "content": "This is the second of the content that will be on my blog post."
+      },
+      {
+        "title": "Third Tech Blog",
+        "date_created": "06/07/2021",
+        "content": "This is the third of the content that will be on my blog post."
+      }
+  ]
+  
